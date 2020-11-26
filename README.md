@@ -1,4 +1,4 @@
-# IP Address Tracker ![image logo](./images/logo.svg)
+# IP Address Tracker 
 
 #### Level: Intermediate  
 ![image info](./level.png)
